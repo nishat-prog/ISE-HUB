@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "890140833733",
+    "project_id": "ise-hub-mp1",
+    "storage_bucket": "ise-hub-mp1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890140833733:android:9a71331772e3083f93bdac",
+        "android_client_info": {
+          "package_name": "com.example.ise_hub_mp1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArb7Y7_nsUGi0dH1bmGJ-HgCkyoIJxee4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
